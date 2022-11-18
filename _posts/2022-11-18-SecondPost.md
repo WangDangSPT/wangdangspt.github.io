@@ -1,7 +1,7 @@
 ---
 title: Second Post OOP Class
 author: Wang
-date: 2022-11-18 11:10:00 +0800
+date: 2022-11-18 11:20:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
